@@ -2,7 +2,7 @@
 
 **Descripción**
 
-Este proyecto utiliza la biblioteca **Scapy** para escanear dispositivos en una red local. Al enviar paquetes ARP (Address Resolution Protocol) y recibir respuestas, el script identifica y muestra las direcciones IP y MAC de los dispositivos conectados a la red. Este script es útil para administradores de red y entusiastas de la ciberseguridad que deseen explorar y analizar sus redes locales.
+Este proyecto utiliza la biblioteca **Scapy** para escanear dispositivos en una red local. Al enviar paquetes ARP (Address Resolution Protocol) y recibir respuestas, el script identifica y muestra las direcciones IP y MAC de los dispositivos conectados a la red. 
 
 **Requisitos**
 Para ejecutar este script, necesitas tener instalado:
